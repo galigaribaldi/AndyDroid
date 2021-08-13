@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">AppClick</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="tv_click">Me diste Click</string>
+    <string name="tv_click2">Tocamos el TextClick</string>
+    <string name="tv_click_p3">Tocamos el TextClick 3</string>
+</resources>
